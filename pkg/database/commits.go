@@ -98,7 +98,7 @@ WHERE id IN (
     FROM commits
     WHERE repo_id = ?
     GROUP BY branch)
- ORDER BY updated ASC
+ ORDER BY updated DESC
  `
 
 // SQL Queries to retrieve the latest Commits for each branch.
