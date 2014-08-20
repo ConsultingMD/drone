@@ -7,5 +7,5 @@
 #   -path="":
 #   -port=":8080":
 #   -workers="4":
-#         
-#DRONED_OPTS="--port=:80"
+#
+DRONED_OPTS="--port=:8100 --workers=2"

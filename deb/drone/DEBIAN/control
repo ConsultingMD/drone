@@ -1,7 +1,7 @@
 Package: drone
-Version: 0.1
+Version: 0.4
 Section: base
 Priority: optional
 Architecture: amd64
-Maintainer: Brad Rydzewski <brad@drone.io>
+Maintainer: Site Operations <ops@grnds.com>
 Description: Drone continuous integration server
